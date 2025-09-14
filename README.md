@@ -36,4 +36,4 @@ This page was created as an exercise in:
 
 ---
 
-\_This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow.\_
+_This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow._
