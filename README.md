@@ -1,5 +1,7 @@
 # CS648-Assignment-1
 
+_This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow._
+
 ## Overview
 
 This repository contains a simple web page created as part of **CS648 Assignment 1**. The goal of this assignment was to become familiar with GitHub, GitHub Desktop, Visual Studio Code, and basic HTML5 page creation.
@@ -35,8 +37,6 @@ This page was created as an exercise in:
 4. Learning Markdown for project documentation
 
 ---
-
-_This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow._
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
 **University:** San Diego State University (SDSU)<br>
