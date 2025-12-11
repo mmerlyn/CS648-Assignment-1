@@ -39,5 +39,7 @@ This page was created as an exercise in:
 _This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow._
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications
+
 **University:** San Diego State University (SDSU)
+
 **Author:** Merlyn Mercylona M
