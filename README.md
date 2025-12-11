@@ -4,7 +4,7 @@
 
 This repository contains a simple web page created as part of **CS648 Assignment 1**. The goal of this assignment was to become familiar with GitHub, GitHub Desktop, Visual Studio Code, and basic HTML5 page creation.
 
-## Project Details
+## Details
 
 - **Web Page Name:** `index.html`
 - **Title:** Welcome to Vecta Corp. – 24/7 365 turnkey vSolutions for your agile ebusiness
@@ -37,3 +37,7 @@ This page was created as an exercise in:
 ---
 
 _This is a beginner-friendly project to practice HTML, Markdown, and Git version control workflow._
+
+**Course:** CS 648 - Advanced Topics in Web and Mobile Applications
+**University:** San Diego State University (SDSU)
+**Author:** Merlyn Mercylona M
